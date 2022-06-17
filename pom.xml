@@ -28,7 +28,7 @@
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <utopia.version>0.1</utopia.version>
         <druid.version>1.1.20</druid.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <aliyun.version>4.1.0</aliyun.version>
     </properties>
 
